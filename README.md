@@ -52,7 +52,7 @@ main.go
 ```go
 package main
 
-import "github.com/whtiehack/wingui"
+import "github.com/nondejus/wingui"
 
 func main() {
 	dlg, _ := wingui.NewDialog(101, 0, nil)
@@ -81,11 +81,11 @@ Don't use `go run main.go`, because golang can't load x.syso files.
 
 
 
-[More examples](https://github.com/whtiehack/wingui/tree/master/examples)
+[More examples](https://github.com/nondejus/wingui/tree/master/examples)
 
 # Examples
 
-see https://github.com/whtiehack/wingui/tree/master/examples
+see https://github.com/nondejus/wingui/tree/master/examples
 
 Welcome PRs.
 
